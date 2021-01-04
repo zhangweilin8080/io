@@ -1,0 +1,4 @@
+filename=Properties.txt
+length=123
+location=C:\Properties.txt
+pwd=666
